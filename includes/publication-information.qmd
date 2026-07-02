@@ -1,0 +1,28 @@
+# Publication Information
+
+**Document Identifier**  
+GTLS-RP-2026-001
+
+**Version**  
+0.2.0
+
+**Suggested Citation**  
+To be finalized upon publication.
+
+**Correspondence**  
+Robert C. Cline, CPL  
+rccline@fastmail.fm
+
+**Template**  
+Published using the GTLS Quarto Legal Research Template.
+
+**Template Repository**  
+https://github.com/rccline/quarto_legal_template
+
+**Template License**  
+MIT License
+
+**Research Paper Copyright**  
+© 2026 Robert C. Cline. All rights reserved.
+
+\newpage

@@ -1,0 +1,14 @@
+series:
+  title: "Research Papers on Land, Water, and Mineral Law"
+
+publisher:
+  name: "Golden Triangle Land Services, Inc."
+  short: "GTLS"
+
+author:
+  name: "Robert C. Cline, CPL"
+  credentials: "Certified Professional Landman"
+
+series_prefix: "RP"
+
+version: "0.2.0"

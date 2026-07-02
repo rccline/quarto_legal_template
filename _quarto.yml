@@ -2,6 +2,8 @@ project:
   title: "quarto_legal_template"
   type: default
   output-dir: output
+  render:
+  - articles/*.qmd
 
 execute:
   freeze: auto

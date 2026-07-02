@@ -5,14 +5,58 @@ author: "Robert C. Cline, CPL"
 date: today
 ---
 
+::: {style="text-align:center; margin-top:2em;"}
+![](../images/gtlslogo.png){width="2.0in"}
+:::
+
+{{< include ../includes/title-page.qmd >}}
+
+{{< include ../includes/publication-information.qmd >}}
+
+# Executive Summary
+
+*A concise summary (½–1 page) describing the issue investigated, why it matters, the methodology used, principal findings, and practical significance of the paper. This section should usually be written last.*
+
+# Statement of Issues
+
+This paper addresses the following questions:
+
+1.  \[Issue One\]
+2.  \[Issue Two\]
+3.  \[Issue Three\]
+
+# Scope of Research
+
+Describe what is included in the paper and what is intentionally excluded. This section should identify the legal, technical, administrative, geographic, temporal, and factual boundaries of the research.
+
+# Methodology
+
+Describe the legal authorities, public records, GIS datasets, NRD records, county records, analytical tools, and reproducible methods used in the paper.
+
+# Keywords
+
+\[Keyword One\] • \[Keyword Two\] • \[Keyword Three\] • \[Keyword Four\] • \[Keyword Five\]
+
+\newpage
+
 # Introduction
 
-Write introduction here.
+# Background
 
-# Background 
+# Legal Framework
+
+# Technical Framework
+
+# Analysis
 
 # Discussion
 
-# Conclustion  
+# Conclusions
 
+# Research Opportunities
 
+Describe unanswered questions and future research opportunities.
+
+# References
+
+# Appendices

@@ -68,3 +68,13 @@ zotero.sqlite
 
 output/
 /.quarto/
+
+
+# ----------------------------
+# Rendered README artifacts
+# ----------------------------
+README.html
+README_files/
+# Rendered include artifacts
+includes/*.html
+includes/*_files/

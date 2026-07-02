@@ -1,0 +1,69 @@
+::: {style="text-align:center; margin-top:2em;"}
+# Research Papers on Land, Water, and Mineral Law
+
+------------------------------------------------------------------------
+
+# TITLE OF PAPER
+
+## Subtitle
+
+<br>
+
+### Robert C. Cline, CPL
+
+Certified Professional Landman
+
+<br>
+
+Published by
+
+## Golden Triangle Land Services, Inc.
+
+Sidney, Nebraska
+
+<br><br>
+
+**Research Paper No. RP-2026-001**
+
+**Version 0.2**
+
+July 2026
+
+------------------------------------------------------------------------
+
+### Abstract
+
+*A concise summary of the purpose, methodology, principal findings, and conclusions of the paper.*
+
+------------------------------------------------------------------------
+
+**Keywords**
+
+Groundwater • Water Rights • Nebraska • Natural Resources Districts • Irrigation • Property Law
+:::
+
+\newpage
+
+Publication Information
+
+Document Identifier
+GTLS-RP-2026-001
+
+Version
+0.2.0
+
+Suggested Citation
+(To be finalized upon publication.)
+
+Correspondence
+Robert C. Cline, CPL
+rccline@fastmail.fm
+
+Template
+Published using the GTLS Quarto Legal Research Template.
+
+Template Repository
+https://github.com/rccline/quarto_legal_template
+
+Research Paper Copyright
+© 2026 Robert C. Cline. All rights reserved.
