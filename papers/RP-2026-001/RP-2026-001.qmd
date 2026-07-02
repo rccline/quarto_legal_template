@@ -1,0 +1,30 @@
+---
+title: "Groundwater Governance in Nebraska"
+subtitle: "Ownership, Allocation, Regulation, and Transferability"
+author: "Robert C. Cline, CPL"
+
+date: today
+date-format: "MMMM D, YYYY"
+
+paper-number: "RP-2026-001"
+version: "0.1.0"
+status: "Working Draft"
+
+keywords:
+  - Nebraska
+  - Groundwater
+  - Water Law
+  - Natural Resources Districts
+  - Irrigation
+  - Water Transfers
+
+abstract: |
+  This paper examines the legal, administrative, and technical framework
+  governing groundwater ownership, allocation, and regulation in Nebraska,
+  with particular emphasis on Natural Resources Districts, groundwater
+  allocation practices, and the legal mechanisms governing the transfer
+  of groundwater rights.
+
+execute:
+  freeze: auto
+---
