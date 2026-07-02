@@ -32,6 +32,9 @@ crossref:
 bibliography:
   - references/bibliography.bib
 
-csl: references/bluebook.csl
+csl: references/BluebookDSEStyle.csl
+
+# If Dan Epps releases a new version, you can simply replace that one file.
+# https://danepps.github.io/bluebook
 
 editor: visual
