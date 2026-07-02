@@ -8,7 +8,9 @@ The source code, Quarto configuration, and publishing framework contained in thi
 
 ***The legal analyses, articles, reports, and other original written works produced using this template are the intellectual property of their respective authors unless otherwise noted. The MIT License applies only to the template and supporting source files in this repository***.
 
-## Purpose
+## Purpose 
+
+This project is not just about Quarto or Bluebook. It is created as a part of a **professional publishing toolkit** tailored to work in land, appraisal analysis, legal analysis, and research. The combination of Quarto, Git, Typst, and structured templates is something relatively few professionals in those fields are using together.
 
 This project provides a standardized framework for writing:
 
@@ -26,21 +28,20 @@ using:
 - Microsoft Word
 - HTML
 - Git
-- GitHub  
+- GitHub\
 - Bibliographic references
-- [Professor Dan Epps' Bluebook citations](https://danepps.github.io/bluebook/?utm_source=chatgpt.com)   
+- [Professor Dan Epps' Bluebook citations](https://danepps.github.io/bluebook/?utm_source=chatgpt.com)
   - *BluebookDSEStyle.csl* with *Zotero*
-  - *Bluebook Signals* plugin  
-  - *Bluebook Citations Fixer* plugin 
+  - *Bluebook Signals* plugin\
+  - *Bluebook Citations Fixer* plugin
   - Download CSL from *https://danepps.github.io/bluebook/*
   - Last updated: 2026-05-31
 
-**Note on signals**. Bluebook introductory signals are not produced by this style. They are inserted by a companion Zotero plug-in: Bluebook Signals — install that alongside this style if you use signals.  
+**Note on signals**. Bluebook introductory signals are not produced by this style. They are inserted by a companion Zotero plug-in: Bluebook Signals — install that alongside this style if you use signals.
 
-**Note on citation fixes**. Some Bluebook rules can’t be expressed in a pure CSL style (e.g., [hereinafter] short forms). Those are applied by the companion Bluebook Citations Fixer plug-in — install it alongside this style for the full feature set.  
+**Note on citation fixes**. Some Bluebook rules can’t be expressed in a pure CSL style (e.g., \[hereinafter\] short forms). Those are applied by the companion Bluebook Citations Fixer plug-in — install it alongside this style for the full feature set.
 
 [If Dan Epps releases a new version, you can simply replace the CSL file.](https://danepps.github.io/bluebook/?utm_source=chatgpt.com)
-
 
 ## Project Structure
 
@@ -77,6 +78,6 @@ Appendix
 
 ## Author
 
-Robert C. Cline, CPL  
-*Golden Triangle Land Services, Inc.*  
-*rccline@fastmail.fm*  
+Robert C. Cline, CPL\
+*Golden Triangle Land Services, Inc.*\
+*rccline\@fastmail.fm*
