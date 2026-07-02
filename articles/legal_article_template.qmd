@@ -1,0 +1,18 @@
+---
+title: "Article Title"
+subtitle: "Subtitle"
+author: "Robert C. Cline, CPL"
+date: today
+---
+
+# Introduction
+
+Write introduction here.
+
+# Background 
+
+# Discussion
+
+# Conclustion  
+
+

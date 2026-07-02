@@ -1,0 +1,37 @@
+project:
+  title: "quarto_legal_template"
+  type: default
+  output-dir: output
+
+execute:
+  freeze: auto
+  echo: false
+  warning: false
+  message: false
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    embed-resources: true
+
+  docx:
+    toc: true
+    number-sections: true
+
+  typst:
+    toc: true
+    number-sections: true
+
+crossref:
+  fig-title: Figure
+  tbl-title: Table
+
+bibliography:
+  - references/bibliography.bib
+
+csl: references/bluebook.csl
+
+editor: visual

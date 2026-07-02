@@ -1,0 +1,13 @@
+---
+title: "Nebraska Groundwater Rights"
+subtitle: "Ownership, Regulation, and Transferability"
+author: "Robert C. Cline, CPL"
+date: today
+
+bibliography:
+  - references/bibliography.bib
+
+csl: references/bluebook.csl
+---
+
+##  
