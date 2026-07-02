@@ -1,0 +1,338 @@
+---
+title: "Bluebook Citation Examples"
+subtitle: "Working Citation Cookbook for the GTLS Quarto Legal Template"
+author: "Robert C. Cline, CPL"
+date: today
+date-format: "MMMM D, YYYY"
+
+bibliography:
+  - bibliography.bib
+---
+
+# Purpose
+
+This document is a working citation cookbook for the GTLS Quarto Legal Template. It is intended to collect tested examples of legal, technical, governmental, and data-source citations that render correctly through Quarto, Pandoc, and the project Bluebook CSL style.
+
+Use this file as a reference when writing research papers in the series *Research Papers on Land, Water, and Mineral Law*.
+
+# Important Quarto Citation Syntax
+
+## Standard citation
+
+Use a normal Pandoc citation when the authority is not named in the sentence:
+
+``` markdown
+Nebraska regulates groundwater through statute [@Neb46_701].
+```
+
+Example output:
+
+Nebraska regulates groundwater through statute [@Neb46_701].
+
+## Suppress author or authority name
+
+Use `[-@key]` when the authority is already named in the sentence:
+
+``` markdown
+Nebraska regulates groundwater through the *Nebraska Ground Water Management and Protection Act* [-@Neb46_701].
+```
+
+Example output:
+
+Nebraska regulates groundwater through the *Nebraska Ground Water Management and Protection Act* [-@Neb46_701].
+
+## Multiple citations
+
+Separate multiple citations with semicolons:
+
+``` markdown
+Nebraska groundwater regulation involves both statutory authority and local NRD administration [@Neb46_701; @Neb46_739_02].
+```
+
+Example output:
+
+Nebraska groundwater regulation involves both statutory authority and local NRD administration [@Neb46_701; @Neb46_739_02].
+
+## Pinpoint citation
+
+For page or section references, add the locator after the key:
+
+``` markdown
+A secondary source may be cited to a specific page [@GroundwaterTransfersNebraska, p. 12].
+```
+
+Example output:
+
+A secondary source may be cited to a specific page [@GroundwaterTransfersNebraska, p. 12].
+
+# Nebraska Authorities
+
+## Nebraska Statute — Act or Statutory Scheme
+
+Use this form for a statutory act or range of sections.
+
+``` bibtex
+@misc{Neb46_701,
+  author       = {{Nebraska Legislature}},
+  title        = {Nebraska Ground Water Management and Protection Act},
+  howpublished = {Neb. Rev. Stat. §§ 46-701 to 46-756},
+  year         = {2025},
+  note         = {Current through the 2025 legislative session}
+}
+```
+
+Working citation:
+
+Nebraska regulates groundwater through the *Nebraska Ground Water Management and Protection Act* [-@Neb46_701].
+
+## Nebraska Statute — Specific Section
+
+Use this form for a specific Nebraska Revised Statute section.
+
+``` bibtex
+@misc{Neb46_739_02,
+  author       = {{Nebraska Legislature}},
+  title        = {Recording Transfer of Right to Use Ground Water},
+  howpublished = {Neb. Rev. Stat. § 46-739.02},
+  year         = {2025},
+  note         = {Current through the 2025 legislative session}
+}
+```
+
+Working citation:
+
+Nebraska law provides for recording an approved transfer of the right to use groundwater [-@Neb46_739_02].
+
+## Nebraska Administrative Rule
+
+Use this form for NRD rules and regulations. Replace the example with the district, chapter, rule, and current date.
+
+``` bibtex
+@misc{ExampleNRDRule,
+  author       = {{Example Natural Resources District}},
+  title        = {Groundwater Management Rules and Regulations},
+  howpublished = {Example NRD Rules ch. 5, § 3},
+  year         = {2025},
+  note         = {Example placeholder; replace with actual NRD rule citation}
+}
+```
+
+Working citation:
+
+NRD transfer procedures are often governed by district-specific groundwater rules [@ExampleNRDRule].
+
+## Nebraska Supreme Court Case
+
+Use this as a placeholder pattern until a specific Nebraska groundwater case is selected.
+
+``` bibtex
+@misc{NebraskaCaseExample,
+  author       = {{Nebraska Supreme Court}},
+  title        = {Example Nebraska Supreme Court Case},
+  howpublished = {000 Neb. 000, 000 N.W.2d 000},
+  year         = {2025},
+  note         = {Placeholder; replace with actual case name, reporter, and year}
+}
+```
+
+Working citation:
+
+Nebraska groundwater doctrine should be tested against Nebraska Supreme Court authority [@NebraskaCaseExample].
+
+# Federal Authorities
+
+## United States Code
+
+``` bibtex
+@misc{USCExample,
+  author       = {{United States Congress}},
+  title        = {Example Federal Statute},
+  howpublished = {42 U.S.C. § 0000},
+  year         = {2025},
+  note         = {Placeholder}
+}
+```
+
+Working citation:
+
+Federal statutory authority may also be relevant in some water-resource contexts [@USCExample].
+
+## Code of Federal Regulations
+
+``` bibtex
+@misc{CFRExample,
+  author       = {{United States Government}},
+  title        = {Example Federal Regulation},
+  howpublished = {40 C.F.R. § 000.00},
+  year         = {2025},
+  note         = {Placeholder}
+}
+```
+
+Working citation:
+
+Federal regulations may provide technical or administrative standards [@CFRExample].
+
+## United States Supreme Court Case
+
+``` bibtex
+@misc{SupremeCourtExample,
+  author       = {{United States Supreme Court}},
+  title        = {Example United States Supreme Court Case},
+  howpublished = {000 U.S. 000},
+  year         = {2025},
+  note         = {Placeholder}
+}
+```
+
+Working citation:
+
+Interstate water disputes may require reference to United States Supreme Court original-jurisdiction cases [@SupremeCourtExample].
+
+# Secondary Authorities
+
+## Law Review Article
+
+``` bibtex
+@article{LawReviewExample,
+  author  = {Doe, Jane},
+  title   = {Groundwater Transfers and Local Water Governance},
+  journal = {Nebraska Law Review},
+  volume  = {100},
+  number  = {1},
+  pages   = {1--45},
+  year    = {2025}
+}
+```
+
+Working citation:
+
+Secondary legal commentary can help frame statutory and administrative analysis [@LawReviewExample].
+
+## Book
+
+``` bibtex
+@book{BookExample,
+  author    = {Smith, John},
+  title     = {Water Law and Policy in the American West},
+  publisher = {Example University Press},
+  address   = {Lincoln, Nebraska},
+  year      = {2020}
+}
+```
+
+Working citation:
+
+Books may provide useful background on western water law and groundwater administration [@BookExample].
+
+## Government Report
+
+``` bibtex
+@techreport{USGSReportExample,
+  author      = {{United States Geological Survey}},
+  title       = {Groundwater Conditions in Nebraska},
+  institution = {United States Geological Survey},
+  year        = {2024},
+  number      = {Scientific Investigations Report 2024-0000},
+  address     = {Reston, Virginia}
+}
+```
+
+Working citation:
+
+Government reports are often essential technical authorities for groundwater analysis [@USGSReportExample].
+
+# Electronic and Data Sources
+
+## Government Website
+
+``` bibtex
+@misc{GovWebsiteExample,
+  author       = {{Nebraska Department of Natural Resources}},
+  title        = {Groundwater Data and Information},
+  howpublished = {Government website},
+  year         = {2025},
+  url          = {https://dnr.nebraska.gov/},
+  note         = {Accessed July 2, 2026}
+}
+```
+
+Working citation:
+
+Government websites may provide current administrative data and agency guidance [@GovWebsiteExample].
+
+## NRD Website
+
+``` bibtex
+@misc{NRDWebsiteExample,
+  author       = {{Example Natural Resources District}},
+  title        = {Groundwater Management Program},
+  howpublished = {Natural Resources District website},
+  year         = {2025},
+  url          = {https://www.example-nrd.org/},
+  note         = {Placeholder; replace with actual NRD URL and access date}
+}
+```
+
+Working citation:
+
+NRD websites may describe allocation, certification, transfer, and reporting procedures [@NRDWebsiteExample].
+
+## GIS Dataset
+
+``` bibtex
+@misc{GISDatasetExample,
+  author       = {{Example County GIS Department}},
+  title        = {County Parcel GIS Dataset},
+  howpublished = {GIS dataset},
+  year         = {2026},
+  note         = {Downloaded July 2, 2026; coordinate reference system and processing steps should be documented in the paper}
+}
+```
+
+Working citation:
+
+GIS datasets should be cited when parcel, well, or spatial analysis supports the paper [@GISDatasetExample].
+
+## R Package
+
+``` bibtex
+@manual{RPackageExample,
+  title  = {sf: Simple Features for R},
+  author = {Pebesma, Edzer},
+  year   = {2025},
+  note   = {R package},
+  url    = {https://r-spatial.github.io/sf/}
+}
+```
+
+Working citation:
+
+R packages used for reproducible analysis should be cited when they materially support the work [@RPackageExample].
+
+## GitHub Repository
+
+``` bibtex
+@misc{GitHubRepoExample,
+  author       = {Cline, Robert C.},
+  title        = {quarto_legal_template},
+  howpublished = {GitHub repository},
+  year         = {2026},
+  url          = {https://github.com/rccline/quarto_legal_template}
+}
+```
+
+Working citation:
+
+The publication framework itself can be cited when documenting reproducibility [@GitHubRepoExample].
+
+# Notes for Future Development
+
+Add a new example whenever a new citation type is successfully tested. Each example should include:
+
+1.  The source type.
+2.  A working BibTeX entry.
+3.  A working Pandoc citation.
+4.  A short note explaining when to use it.
+
+# References

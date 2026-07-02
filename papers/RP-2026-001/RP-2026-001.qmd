@@ -24,7 +24,15 @@ abstract: |
   with particular emphasis on Natural Resources Districts, groundwater
   allocation practices, and the legal mechanisms governing the transfer
   of groundwater rights.
+  
+  
+bibliography:
+  - references/bibliography.bib
 
 execute:
   freeze: auto
 ---
+
+Nebraska regulates groundwater through the *Nebraska Ground Water Management and Protection Act* [-@Neb46_701].
+
+The Act establishes the statutory framework through which Natural Resources Districts regulate groundwater withdrawals and adopt groundwater management plans [@Neb46_701].
