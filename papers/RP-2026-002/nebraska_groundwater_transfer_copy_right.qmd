@@ -1,0 +1,650 @@
+---
+title: "Water You May Not Sell: The Transferability of Groundwater Use Rights and Allocations Under Nebraska Law"
+subtitle: "Ownership, Natural Resources District Authority, and the Limits of a Private Market"
+author:
+  - name: "Robert C. Cline, Sr., CPL"
+    affiliations:
+      - name: "Golden Triangle Land Services, Inc."
+date: today
+abstract: |
+  Nebraska irrigators, lenders, and land brokers increasingly ask a deceptively
+  simple question: can the right to pump groundwater—or an allocated pumping
+  allowance measured in acre-inches or certified irrigated acres—be sold, leased,
+  or moved from one owner or parcel to another? This Article answers that question.
+  It locates the answer in three layers of Nebraska law that must be read together:
+  (1) the common-law characterization of the groundwater right as a *usufructuary*
+  right appurtenant to the overlying land, not ownership of the corpus of the water;
+  (2) the Nebraska Ground Water Management and Protection Act, which superimposes a
+  public-management regime administered by locally elected Natural Resources
+  Districts (NRDs); and (3) the state and federal constitutional constraints that
+  cabin both the landowner's right and the State's regulatory reach. The Article
+  concludes that transfers of certified irrigated acres, certified water uses, and
+  allocations are legally possible but are neither free nor freely alienable: they
+  occur only through, and on the conditions imposed by, the NRD in which the water
+  well is located, and only where a management area has been designated. A private
+  brokerage market can facilitate such transfers but cannot manufacture a
+  commodity—severable, freely tradable groundwater divorced from land and from NRD
+  approval—that Nebraska law has never recognized.
+bibliography: bibliography.bib
+csl: BluebookDSEStyle.csl
+suppress-bibliography: true
+notes-after-punctuation: true
+link-citations: true
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+  pdf:
+    toc: true
+    number-sections: true
+    documentclass: article
+    geometry: margin=1in
+    fontsize: 12pt
+  docx:
+    toc: true
+    number-sections: true
+---
+
+*© 2026 Robert C. Cline, Sr., CPL. All rights reserved. Pre-publication draft — please do not
+cite or circulate without the author's permission.*
+
+<!-- DRAFTING NOTE (delete before circulation): This is an AI-assisted working
+draft. Every case and statute cite was verified against a primary source during
+drafting (see CITATION_AUDIT.md), but pinpoint page numbers and the current text
+of amended statutes must be confirmed against Westlaw/Lexis and the current
+Nebraska Revised Statutes before publication. In a Zotero/Word workflow, run
+Refresh before finalizing so the Epps CSL's Rule 10.9 short-form logic settles. -->
+
+# Introduction {#sec-intro}
+
+Groundwater sustains Nebraska agriculture. The State overlies the High Plains
+(Ogallala) Aquifer and reports on the order of nine million acres under
+groundwater irrigation.[^acres] As aquifers decline in places, as interstate
+compact obligations tighten, and as land changes hands, a recurring transactional
+question has moved from the margins to the center of Nebraska land practice: **may
+the right to use groundwater, or an allocated pumping allowance, be transferred,
+assigned, leased, or otherwise conveyed from one landowner to another—and if so,
+under what statutory and regulatory conditions?**
+
+[^acres]: Nebraska's Natural Resources Districts report roughly 9.06 million
+groundwater-irrigated acres statewide, compiled under Neb. Rev. Stat. § 46-739.
+The figure varies year to year and between *certified* and *actually irrigated*
+acres.
+
+The answer requires assembling three bodies of law that Nebraska courts and the
+Legislature have historically kept in separate drawers. First is the common law of
+groundwater ownership, which characterizes what a landowner actually holds.
+Second is the Nebraska Ground Water Management and Protection Act (the "Act" or
+"GWMPA"), the statutory regime that delegates day-to-day groundwater management to
+locally elected Natural Resources Districts. Third is the constitutional
+framework—both the Nebraska Constitution's silence on groundwater and the federal
+dormant Commerce Clause—which sets the outer bounds of both the private right and
+the public power to regulate it.
+
+This Article proceeds in the order of the questions a careful practitioner would
+ask. Part [-@sec-ownership] establishes *who owns groundwater* in Nebraska and
+concludes that the landowner holds a usufructuary right, not ownership in place.
+Part [-@sec-statute] describes the statutory framework. Part [-@sec-nrd] situates
+the NRDs within it—their constitutional footing, delegated powers, and limits.
+Part [-@sec-allocation] explains how allocations, certifications, and irrigated-acre
+determinations are established. Part [-@sec-transfer] answers the central
+question—transferability along every axis (parcel, owner, well, district;
+temporary and permanent). Part [-@sec-approvals] catalogs the approvals a transfer
+requires. Part [-@sec-local] documents how individual NRDs differ. Part
+[-@sec-market] asks whether a private brokerage market could lawfully exist.
+
+# Who Owns Groundwater in Nebraska? {#sec-ownership}
+
+## Not ownership in place: the rejection of the English rule
+
+Nebraska has never recognized absolute ownership of groundwater in the overlying
+landowner. The foundational case is *Olson v. City of Wahoo*, decided in 1933, in
+which the Nebraska Supreme Court expressly rejected the English rule of absolute
+ownership and adopted instead a modified version of the American "reasonable use"
+rule.[^olson] Under that rule, the overlying owner may appropriate subterranean
+water for reasonable and beneficial use on the overlying land, but not "in excess
+of a reasonable and beneficial use," and—critically—"if the natural underground
+supply is insufficient for all owners, each is entitled to a reasonable proportion
+of the whole."[^olsonquote] That last clause grafts a *correlative-rights* limit
+onto the American rule; commentators and later courts have called the resulting
+hybrid the "Nebraska rule of reasonable use."[^nebrule]
+
+[^olson]: *See* @olson1933, 811 (rejecting the English rule of absolute ownership
+and adopting a modified American reasonable-use rule). The English (absolute
+ownership) and California (correlative rights) rules are canvassed in @prather1978.
+
+[^olsonquote]: @olson1933, 811 (Neb. Rev. Stat. citation to the official reporter;
+parallel cite 248 N.W. 304, 308).
+
+[^nebrule]: *See* @harnsberger1963problems; @harnsberger1973windmills, 179
+(tracing the doctrinal development); *see also* @aiken1980administration.
+
+The correlative-rights component descends from the California doctrine first
+articulated in *Katz v. Walkinshaw*.[^katz] Under a pure correlative-rights regime,
+"the overlying landowners have no proprietary interest in the water," and in times
+of shortage each shares proportionally.[^prather] Nebraska's rule blends the
+American and correlative-rights doctrines and, as the Supreme Court reaffirmed in
+*Prather v. Eisenmann*, must be "construed . . . in the light of" the statutory
+domestic-use preference.[^prather2]
+
+[^katz]: @katz1902 (origin of the correlative-rights doctrine).
+
+[^prather]: @prather1978, *at* 770 (describing correlative rights).
+
+[^prather2]: @prather1978, *at* 771.
+
+## A usufructuary right appurtenant to the land
+
+The practical upshot—and the pivot on which the transferability question turns—is
+that the Nebraska landowner holds a *right to use*, not title to the water itself.
+The Nebraska Supreme Court put the point bluntly in the decision reviewed by the
+United States Supreme Court in *Sporhase*: Nebraska "does not recognize an absolute
+ownership interest in ground water, but grants landowners only a right to use
+ground water on the land from which it has been extracted."[^douglasquote] The
+Court added that, municipal supply arrangements aside, "Nebraska forbids any
+transportation of ground water off the land owned or controlled by the person who
+has appropriated the water from its subterranean source."[^douglasquote2]
+
+[^douglasquote]: @douglasSporhase1981, 706 (parallel cite 305 N.W.2d 614, 617);
+*accord* @sporhase1982, 951–52.
+
+[^douglasquote2]: @douglasSporhase1981, 710 (parallel cite 305 N.W.2d 614, 619).
+This common-law prohibition on off-tract transport is the doctrinal baseline
+against which every statutory transfer mechanism discussed in Part [-@sec-transfer]
+must be measured.
+
+The Legislature codified the public-ownership characterization in the GWMPA, and
+the Supreme Court has since restated it as settled: "Ground water is owned by the
+public, and the only right held by an overlying landowner is in the use of the
+ground water."[^bamfordown] The use right, moreover, is *appurtenant* to the
+overlying land: it does not exist in the abstract but arises from and depends on
+ownership of that land, and cannot be severed from the land and held on its
+own.[^derivative]
+
+[^bamfordown]: @bamford1994. The Nebraska DNR's official GWMPA compilation
+attributes this proposition to *Bamford* in the annotations to Neb. Rev. Stat.
+§ 46-702.
+
+[^derivative]: That the use right is appurtenant to, and derivative of, ownership of
+the overlying land follows from settled authority: the reasonable-use rule confines
+the right to use on the overlying land, @olson1933, 811, and the Nebraska Supreme
+Court has described the interest as a right to use ground water only on the land
+from which it is extracted, @douglasSporhase1981, 706. *See also* @bamford1994
+(ground water is publicly owned; the landowner holds only a use right).
+
+That characterization matters enormously. If groundwater were owned in place, it
+would be freely severable and salable like minerals or timber. Because it is only a
+usufructuary, land-appurtenant, publicly owned resource, its "transfer" is not a
+conveyance of a chattel but a regulated reallocation of a *use privilege*—one the
+State, through the NRDs, may condition or deny.
+
+# The Statutory Framework {#sec-statute}
+
+## Two systems, separately administered
+
+Nebraska administers surface water and groundwater through two distinct systems.
+Surface water is governed by prior appropriation—first in time, first in
+right—administered by the Department of Natural Resources under a constitutional
+dedication of "the water of every natural stream" to the people for beneficial
+use.[^constsurface] Groundwater is governed by the common-law reasonable-use rule
+as modified and administered under the GWMPA by the NRDs.[^twoSystems] The
+Nebraska Constitution, notably, *does not* address groundwater; its water
+provisions speak to natural streams.[^constGW]
+
+[^constsurface]: Neb. Const. art. XV, §§ 4–6 (declaring water a "natural want,"
+dedicating the use of every natural stream to the people, and adopting priority of
+appropriation for surface water).
+
+[^twoSystems]: The two-system structure is described in @spearT2005, 181–84. The
+GWMPA appears at Neb. Rev. Stat. §§ 46-701 to 46-755.
+
+[^constGW]: Neb. Const. art. XV, §§ 4–7 (addressing surface water only); *see*
+@spearT2005 (noting the Nebraska Constitution does not address groundwater use).
+
+## From common law to comprehensive management
+
+The GWMPA is the product of an evolutionary statutory history. The Legislature
+first assigned groundwater regulatory authority to the NRDs in the 1975 Ground
+Water Management Act;[^lb577] required groundwater management plans in
+1985;[^lb1106] and, in a series of amendments culminating in 2004, integrated the
+management of hydrologically connected surface water and groundwater, most
+importantly through the integrated-management-plan and fully-appropriated-basin
+provisions.[^integration] The 2004 integration statutes were enacted against the
+backdrop of, and partly in response to, escalating Republican River Compact
+litigation with Kansas.[^compact]
+
+[^lb577]: Laws 1975, LB 577 (originating the Ground Water Management Act and
+assigning regulatory authority to NRDs), codified as amended at Neb. Rev. Stat.
+§ 46-701 et seq.
+
+[^lb1106]: Laws 1985, LB 1106 (requiring NRDs to adopt groundwater management
+plans for quantity and quality).
+
+[^integration]: Neb. Rev. Stat. §§ 46-713 to 46-719 (integrated management plans;
+determinations that a basin, subbasin, or reach is fully or overappropriated;
+consequent stays on new wells and increases in irrigated acres). *See generally*
+@aiken2004tributary.
+
+[^compact]: Republican River Compact, ch. 104, 57 Stat. 86 (1943); *see* @kansasNebraska2015
+(enforcing the Compact against Nebraska and describing Nebraska's post-2007
+integrated-management "regulatory backstop," codified at Neb. Rev. Stat. § 46-715).
+
+## *Spear T Ranch* and the tort interface
+
+Where groundwater and surface water are hydrologically connected, the Supreme
+Court supplied a common-law rule of decision in *Spear T Ranch, Inc. v. Knaub*,
+adopting Restatement (Second) of Torts §§ 858 and 850A to govern conflicts between
+users of hydrologically connected surface water and groundwater.[^spearT] *Spear T*
+is not a transfer case, but it is indispensable background: it confirms that the
+groundwater use right is bounded by a reasonableness standard enforceable in tort,
+and that a "transfer" cannot enlarge a right beyond what reasonableness and the
+Act's integrated-management provisions permit.[^spearT2]
+
+[^spearT]: @spearT2005, 194 (adopting Restatement (Second) of Torts §§ 858, 850A
+(1979)); *see* @restatement2dTorts.
+
+[^spearT2]: The subsequent appeal, @spearT2006, addressed intervention and
+reaffirmed the case-by-case reasonableness inquiry.
+
+# Natural Resources Districts Within the Framework {#sec-nrd}
+
+## Origin and constitutional footing
+
+Nebraska's 23 NRDs are the institutional core of groundwater management. They were
+created by the merger of some 150 special-purpose districts under Legislative Bill
+1357, enacted in 1969 and effective July 1, 1972.[^lb1357] Organized along
+river-basin lines and governed by locally elected boards, they are multipurpose
+subdivisions charged with soil and water conservation, flood control, and—since
+1975—groundwater management.[^nrdpowers]
+
+[^lb1357]: Laws 1969, LB 1357, codified as amended at Neb. Rev. Stat. § 2-3201 et
+seq.; *see* @neeman1974 (describing the consolidation and upholding the enabling
+legislation).
+
+[^nrdpowers]: Neb. Rev. Stat. § 2-3201 (legislative intent); *id.* § 46-707 (NRD
+groundwater powers enumerated).
+
+There is no *constitutional* groundwater provision that either authorizes or
+constrains the NRDs; the constitutional water articles concern surface
+water.[^noconstgw] The NRDs' authority is therefore statutory, resting on the
+Legislature's police power to regulate use of a publicly owned resource. The
+Nebraska Supreme Court upheld the NRD enabling legislation against constitutional
+attack in *Neeman v. Nebraska Natural Resources Commission*,[^neeman] and has
+repeatedly confirmed that limitations on groundwater withdrawal are a valid
+exercise of the police power that do not, without more, effect a compensable
+taking.[^bamfordtaking]
+
+[^noconstgw]: *See supra* notes on Neb. Const. art. XV.
+
+[^neeman]: @neeman1974 (rejecting single-subject and improper-amendment challenges;
+holding the NRD statutes constitutional).
+
+[^bamfordtaking]: @bamford1994 (limitations on groundwater withdrawals during
+shortage are a valid exercise of the police power and do not necessarily constitute
+a taking requiring compensation).
+
+## Delegated powers and their limits
+
+Section 46-707 enumerates the NRD's groundwater powers, and § 46-739 supplies the
+menu of "controls" an NRD may adopt once it has designated a ground water
+*management area*.[^controls] These include allocation, well-spacing and metering
+requirements, rotation, limits on or reductions of certified irrigated acres, and
+limits on increases in consumptive use.[^controls2] The delegation is real but
+bounded in at least four ways. First, most controls require a designated management
+area and the procedural predicates (data, plan, hearing, order) the Act
+specifies.[^predicate] Second, § 46-739 itself commands that any transfer rules an
+NRD adopts must *deny or condition* transfers where necessary to protect other
+groundwater users and surface water appropriators, to protect compact compliance,
+and to protect the public interest.[^statlimits] Third, the DNR retains a
+supervisory and integrating role for hydrologically connected basins.[^dnrrole]
+Fourth, the NRD's standing to act is itself limited: it may not, for example,
+litigate the "public interest" at large absent a district-specific
+interest.[^twinPlatte]
+
+[^controls]: Neb. Rev. Stat. § 46-739(1) (controls available in a designated
+management area).
+
+[^controls2]: *Id.* § 46-739(1)(a)–(m); *id.* § 46-740 (allocation and reduction of
+irrigated acres).
+
+[^predicate]: *Id.* §§ 46-707, 46-739; *see id.* § 46-743 (notice and hearing
+requirements).
+
+[^statlimits]: *Id.* § 46-739(1)(k) (requiring that transfer rules deny or condition
+a transfer to (A) ensure consistency with the management-area purpose, (B) prevent
+adverse effects on other groundwater users or surface water appropriators, (C)
+prevent adverse effects on interstate-compact or decree compliance, and (D)
+otherwise protect the public interest and prevent detriment to the public welfare).
+
+[^dnrrole]: *Id.* §§ 46-713 to 46-719 (integrated management; DNR determinations of
+appropriation status).
+
+[^twinPlatte]: @twinPlatte1996 (the NRD enabling statute does not confer standing to
+represent the public interest in litigation where the district lacks an independent
+basis for standing).
+
+# How Groundwater Allocations Are Established {#sec-allocation}
+
+Before a right can be transferred, it must be defined. Nebraska law defines the
+groundwater use interest through a stack of administrative determinations.
+
+**Well registration.** Every non-exempt water well must be registered with the
+Department; registration is the baseline record of who is pumping, from where, and
+for what.[^wellreg]
+
+**Well construction permits.** In fully or overappropriated areas and in many
+management areas, a well may not be constructed without an NRD permit, and permits
+may be denied or conditioned during a stay on new wells.[^wellpermit]
+
+**Certified irrigated acres.** The operative unit for most agricultural transfers is
+not a volume of water but the *certified irrigated acre*—a specific acre certified,
+under NRD rules, as historically irrigated from a given water source.[^certacres]
+Certification typically rests on Farm Service Agency records, aerial imagery, and,
+where those are unavailable, county records or sworn testimony.[^certproof]
+
+**Allocation.** Where an NRD imposes quantity controls, it may allocate a permitted
+withdrawal—commonly expressed in acre-inches per certified irrigated acre over a
+multi-year allocation period—and may require reductions in certified irrigated
+acres.[^allocation]
+
+**Integrated management.** In hydrologically connected and fully/overappropriated
+basins, the certified acres and allocations sit inside an integrated management
+plan jointly implemented by the NRD and the DNR, which caps new appropriations and
+new irrigated acres.[^imp]
+
+[^wellreg]: Neb. Rev. Stat. §§ 46-602 to 46-604 (water-well registration).
+
+[^wellpermit]: *Id.* §§ 46-735 to 46-738 (well-construction permits); *id.* § 46-714
+(stays on new well permits and on increases in groundwater-irrigated acres following
+a fully-appropriated determination, and exceptions thereto).
+
+[^certacres]: *Id.* § 46-739 (certified irrigated acres and certified water uses);
+*see, e.g.*, the certification and transfer definitions in NRD rules cited *infra*
+Part [-@sec-local].
+
+[^certproof]: NRD certification rules commonly accept FSA Form 578 records and
+aerial photography, with fallback to county records or sworn testimony (*e.g.*,
+Central Platte NRD Rules & Regulations).
+
+[^allocation]: Neb. Rev. Stat. § 46-740 (allocation; reduction of irrigated acres);
+*id.* § 46-739(1)(e)–(f).
+
+[^imp]: *Id.* §§ 46-713 to 46-719.
+
+# May Groundwater Allocations Be Transferred? {#sec-transfer}
+
+With the pieces defined, the central question can be answered directly: **yes,
+certified irrigated acres, certified water uses, and allocations may be
+transferred—but only through the NRD, only where the NRD's rules authorize it, and
+only on the statutory and regulatory conditions below.** The common-law default,
+recall, is *against* off-tract transfer;[^default] the statutory transfer
+mechanisms are exceptions the Legislature and the NRDs have carved out of that
+default.
+
+[^default]: @douglasSporhase1981, 710 (off-tract transport historically forbidden
+except for municipal supply).
+
+## The statutory hook: § 46-739 transfers
+
+The affirmative authority to approve transfers is found in § 46-739. Within a
+designated management area, an NRD "may" adopt rules governing the transfer of
+certified water uses and certified irrigated acres.[^739transfer] If it adopts such
+rules, the statute *mandates* that they require the district to deny or condition
+any transfer to the extent necessary to protect the management-area purpose, other
+groundwater users, surface water appropriators, interstate-compact compliance, and
+the public interest.[^739conditions] Transfers are thus permissive at the district
+level (an NRD need not allow them) but, where allowed, are heavily conditioned by
+statute.
+
+[^739transfer]: Neb. Rev. Stat. § 46-739(1)(k) (authorizing NRD rules for transfers
+of certified water uses and certified irrigated acres).
+
+[^739conditions]: *Id.* § 46-739(1)(k)(A)–(D).
+
+## Transfers along each axis
+
+*Between parcels and between wells.* The typical transaction moves certified
+irrigated acres from one tract (or well) to another within the same NRD—for
+example, retiring irrigation on marginal ground and adding it to a more productive
+field, or shifting acres between wells for efficiency. Because the right is
+appurtenant to land and defined by certification, this is a *re-certification*
+administered by the NRD, not a private conveyance of water.[^parcel]
+
+*Between owners.* Certified acres and allocations commonly change hands with the
+land in an ordinary sale; the use right runs with the overlying land. A transfer to
+a *different* owner's separate tract, however, is a transfer in the § 46-739 sense
+and requires NRD approval, the title report, and lienholder consent discussed in
+Part [-@sec-approvals].[^owner]
+
+*Between NRDs / interbasin.* Because each NRD adopts its own rules and each basin
+has its own appropriation status and (where applicable) compact obligations, a
+transfer crossing NRD lines must satisfy the rules of *both* districts and may be
+barred outright where it would impair compact compliance.[^interNRD]
+
+*Temporary versus permanent.* Nebraska's statutes contemplate both. Permanent
+reallocation runs through the § 46-739 certified-acre/allocation transfer
+machinery. Temporary or use-specific movements appear in narrower statutory
+vehicles—for example, the § 46-691.03 permit to withdraw and transport groundwater
+*off* the overlying land to augment streamflow, wetlands, or wildlife
+habitat.[^temp] Some NRDs also operate "water banks" that credit and debit
+consumptive use, a functionally temporary transfer device operating under district
+rules.[^waterbank]
+
+[^parcel]: Neb. Rev. Stat. § 46-739(1)(k); *see also id.* § 46-739.01 (procedural
+conditions).
+
+[^owner]: *Id.* § 46-739.01.
+
+[^interNRD]: *Id.* § 46-739(1)(k)(C) (compact-protection condition); *see* @kansasNebraska2015
+(illustrating the stakes of compact compliance in the Republican River basin).
+
+[^temp]: *Id.* § 46-691.03 (permit to withdraw and transport groundwater off the
+overlying land for streamflow, wetland, or wildlife benefit, requiring compliance
+with the rules of both the source and destination NRDs).
+
+[^waterbank]: *See, e.g.*, Central Platte NRD Rules & Regulations (water-bank
+crediting of consumptive use), discussed *infra* Part [-@sec-local].
+
+## The interstate dimension
+
+Transfer *out of Nebraska* is governed by § 46-613.01 and by the constitutional
+gloss of *Sporhase*. The statute conditions an interstate transport permit on
+findings that the withdrawal is reasonable, consistent with conservation, and not
+detrimental to the public welfare—conditions the United States Supreme Court
+sustained—plus a reciprocity requirement the Court struck down as an impermissible
+burden on interstate commerce.[^sporhase] *Sporhase* holds that groundwater *is* an
+article of commerce for Commerce Clause purposes, so Nebraska cannot flatly bar
+export; but it may still regulate interstate transfer under conservation-based,
+evenhanded criteria.[^sporhase2] The practical result is a narrow, permit-gated
+channel for export, not a free market across state lines.
+
+[^sporhase]: @sporhase1982, 954–58 (sustaining the first three permit conditions;
+invalidating the reciprocity requirement); Neb. Rev. Stat. § 46-613.01.
+
+[^sporhase2]: @sporhase1982, 953–54 (groundwater is an article of commerce);
+*id.* at 956 (a State severely restricting its own citizens' withdrawals is not
+discriminating against interstate commerce when it controls export).
+
+# What Approvals Are Required? {#sec-approvals}
+
+A compliant transfer of certified irrigated acres or certified water uses assembles
+the following:
+
+1. **NRD approval.** The transfer must be authorized by, and approved under, the
+   rules of the NRD in which the water well is located (and, for interdistrict
+   transfers, the destination NRD as well).[^app1]
+
+2. **Statutory conditions satisfied.** The NRD must deny or condition the transfer
+   as necessary to protect the management-area purpose, other groundwater users,
+   surface water appropriators, compact compliance, and the public
+   interest.[^app2]
+
+3. **Report of title and lienholder consent.** Section 46-739.01 requires the
+   applicant to submit a title report identifying the owner and all consensual
+   liens on the source land, and to obtain written consent from each lienholder
+   before the transfer may be approved; a lienholder whose interest is not shown
+   and consented to retains a right of action.[^app3] Narrow exemptions exist for
+   *de minimis* transfers (four acres or less) and for single-tract,
+   single-landowner efficiency transfers with no net change in certified
+   acres.[^app4]
+
+4. **Notice and hearing.** Where the Act or the NRD's rules require, the transfer
+   or the underlying rule change proceeds on published notice and public
+   hearing.[^app5]
+
+5. **DNR involvement for connected/appropriated basins.** In fully or
+   overappropriated and hydrologically connected basins, the transfer operates
+   within the integrated management plan, implicating DNR review.[^app6]
+
+6. **Interstate permit.** Export requires the § 46-613.01 permit, subject to the
+   *Sporhase*-surviving criteria.[^app7]
+
+Recording of the transfer occurs at the district level through re-certification and
+the district's transfer-permit records; the § 46-739.01 title-report and
+lienholder-consent machinery supplies the real-property recording interface that
+protects secured lenders.[^recording]
+
+[^app1]: Neb. Rev. Stat. § 46-739(1)(k); *id.* § 46-691.03(4) (compliance with the
+rules of both source and destination NRDs for off-tract transport).
+
+[^app2]: *Id.* § 46-739(1)(k)(A)–(D).
+
+[^app3]: *Id.* § 46-739.01(1)–(2).
+
+[^app4]: *Id.* § 46-739.01(1) (exemptions for one-time transfers of four acres or
+less, qualifying incentive-program transfers of four acres or less, and
+single-landowner single-tract efficiency transfers with no net change).
+
+[^app5]: *Id.* §§ 46-743, 46-739.
+
+[^app6]: *Id.* §§ 46-713 to 46-719.
+
+[^app7]: *Id.* § 46-613.01; @sporhase1982.
+
+[^recording]: Neb. Rev. Stat. § 46-739.01(2) (preserving unlisted lienholders'
+remedies).
+
+# How Do Individual NRDs Differ? {#sec-local}
+
+Nebraska groundwater law is *not* uniform statewide in operation, and by design.
+The Act supplies a common statutory ceiling and a mandatory floor of protective
+conditions, but it delegates the choice and calibration of controls to each NRD and
+expressly authorizes *different controls for different conditions*. Section
+46-739(4) permits an NRD to adopt different provisions for different categories of
+use or portions of a management area where uniform application would fail to carry
+out the Act "in a reasonably effective and equitable manner."[^local1] The threshold
+question—whether an NRD allows transfers at all—is itself a matter of local
+discretion, because § 46-739 transfer authority is permissive.[^local2]
+
+The consequences are visible in district rulebooks. Districts under Republican
+River Compact pressure (the Upper, Middle, and Lower Republican NRDs) administer
+some of the strictest allocation and transfer regimes, tightly tied to compact
+accounting.[^republican] Others define bespoke instruments: the South Platte NRD's
+rules, for instance, define an "Application for a Transfer Permit" to cover the
+physical transfer of groundwater, changes or additions in type of use, the transfer
+of certified irrigated acres, *and* the transfer of an allocation.[^southplatte]
+The Central Platte NRD operates a water bank and small-area transfer exemptions
+keyed to soil class.[^centralplatte] A transfer that is routine in one district may
+be unavailable, or available only on different terms, in the next.
+
+[^local1]: Neb. Rev. Stat. § 46-739(4) (authorizing differentiated controls where
+varying hydrologic, geologic, soil, or use conditions make uniform controls
+ineffective or inequitable).
+
+[^local2]: *Id.* § 46-739(1) ("may" adopt controls); *id.* § 46-739(1)(k) ("may"
+adopt transfer rules).
+
+[^republican]: The Republican River basin NRDs' regimes are shaped by the Compact
+and its enforcement. *See* @kansasNebraska2015.
+
+[^southplatte]: South Platte NRD, Amended and Restated Districtwide Ground Water
+Management Area Rules & Regulations (defining "Application for a Transfer Permit").
+
+[^centralplatte]: Central Platte NRD Rules & Regulations (water-bank crediting;
+small-area transfer exemptions by soil class).
+
+# Could a Private Brokerage Market Legally Exist? {#sec-market}
+
+The final question is whether Nebraska law would permit a genuine private
+brokerage market in groundwater—brokers matching buyers and sellers of severable,
+tradable water rights the way real-estate or commodity brokers do. The answer is a
+qualified *no as to the commodity, yes as to facilitation.*
+
+Three features of Nebraska law constrain any such market. First, there is *no
+severable commodity to trade.* The interest is a usufructuary, land-appurtenant,
+publicly owned use right, not a fee interest in a corpus of water. What can move is
+a *certified irrigated acre* or *allocation*, and only through
+re-certification.[^market1] Second, *every transfer is gated by the NRD.* Approval,
+statutory conditions, title report, and lienholder consent are prerequisites the
+parties cannot contract around; a broker cannot deliver what the district has not
+approved.[^market2] Third, the *public-ownership and conservation constraints*
+recognized in *Sporhase* mean the State may regulate, condition, and in
+appropriate circumstances deny transfers to protect the resource, other users, and
+compact obligations—limits that a private market cannot displace.[^market3]
+
+[^market1]: *See supra* Part [-@sec-ownership]; @douglasSporhase1981, 706–07, 710.
+
+[^market2]: Neb. Rev. Stat. §§ 46-739, 46-739.01.
+
+[^market3]: @sporhase1982, 953–58 (groundwater is an article of commerce but the
+State may impose evenhanded, conservation-based restrictions); *see also*
+@bamford1994 (withdrawal limits are a valid police-power exercise).
+
+None of this forecloses market-*like* activity. Within a permissive NRD, private
+parties may negotiate the price of a certified-acre transfer, and a broker or
+consultant may lawfully identify counterparties, value the acres, and shepherd the
+§ 46-739.01 title and lien work—much as brokers facilitate the transfer of
+surface-water appropriations under the parallel surface-water transfer statutes.
+The instructive analogy is precisely that surface-water regime, where
+appropriations are transferable but only through a regulated change process that
+protects other appropriators and caps the transferred right at historic consumptive
+use.[^surface] Nebraska groundwater sits one step further from a free market than
+surface water: the interest is more tightly bound to the land, the administering
+body is local and plural, and the resource is declared publicly owned. A broker can
+therefore build a business *facilitating* NRD-approved transfers; what a broker
+cannot do is create, or promise, a freely alienable water commodity that Nebraska
+law has never recognized and that its constitutional and statutory structure
+affirmatively resists.
+
+[^surface]: *Cf.* Neb. Rev. Stat. § 46-290 (surface-water appropriation transfers,
+capped at historic consumptive use and conditioned on protection of other
+appropriators). The comparison illuminates how Nebraska regulates *any* water
+reallocation: through a public change process, not private conveyance.
+
+# Conclusion {#sec-conclusion}
+
+Nebraska law permits the transfer of groundwater use rights and allocations, but
+only in a form its doctrine can accommodate. Because the landowner holds a
+usufructuary, land-appurtenant, publicly owned *right to use*—not ownership of the
+water in place—what actually moves in a "groundwater transfer" is a certified
+irrigated acre, a certified water use, or an allocation, reallocated through the
+NRD under § 46-739 and § 46-739.01, subject to mandatory protective conditions,
+title and lienholder requirements, and, for connected and appropriated basins, DNR
+integration. NRDs differ by design, so transferability is local. Export is
+permit-gated under *Sporhase*. A private brokerage market may facilitate these
+NRD-approved reallocations, but it cannot conjure a freely tradable commodity out
+of a use privilege the State owns and the districts administer. For the Nebraska
+landowner, lender, or broker, the operative rule is therefore not "who owns the
+water" but "what will the NRD approve, and on what conditions."  
+
+The author, Robert C. Cline, Sr. is a Certified Professional Landman (CPL). The author is not licensed to practice law. This Article is legal scholarship and general commentary; it is not legal advice, does not address any particular person's circumstances, and creates no attorney-client relationship. Readers with specific questions should consult a licensed Nebraska attorney. © 2026 Robert C. Cline, Sr., CPL, all rights reserved. 
+
+<!-- OPTIONAL COLOPHON — for the repository / SSRN / working-paper version only.
+     For that version, uncomment the block below (remove the opening and closing
+     comment markers that immediately wrap the Colophon heading). Leave it
+     commented for the law review submission, where typesetting and citation
+     tools are, by convention, not cited. -->
+
+
+
+This Article was prepared in Quarto (https://quarto.org), an open-source
+scientific and technical publishing system, with references managed in Zotero.
+Bluebook-style citations were formatted using the Epps Bluebook CSL (*Bluebook
+Style — Epps Version*), a fork by Daniel Epps of the community Bluebook CSL
+originally authored by Bruce D'Arcus and Nancy Sims with contributions from
+Patrick O'Brien, distributed under the Creative Commons Attribution–ShareAlike
+3.0 License (CC BY-SA 3.0).
+
+
